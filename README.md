@@ -77,7 +77,7 @@ This project demonstrates how machine learning can assist banks and financial in
 
 ## Application Link :- 
 
-"https://fund-guardian-ai.lovable.app"
+https://fund-guardian-ai.lovable.app
 
 ---
 
