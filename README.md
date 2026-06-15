@@ -50,11 +50,13 @@ Banks and lending institutions face significant risks when approving loans. Inco
 
 ## Application Preview
 
-Add screenshots of:
-
 <img width="1912" height="997" alt="Bank Loan Application preview" src="https://github.com/user-attachments/assets/4650c5f0-850c-44e4-be57-f93931869bdd" />
 
+## Application Results 
 <img width="1918" height="995" alt="Bank Loan application Result" src="https://github.com/user-attachments/assets/dde6f0fe-dd4e-4ed8-b048-08aa314394b9" />
+
+<img width="1901" height="987" alt="Batch Bank Loan application Result" src="https://github.com/user-attachments/assets/9eda8bce-5f89-4e67-ae93-bc2a75f06a1d" />
+
 
 ---
 
