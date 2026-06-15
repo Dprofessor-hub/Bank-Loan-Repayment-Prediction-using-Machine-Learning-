@@ -75,6 +75,12 @@ This project demonstrates how machine learning can assist banks and financial in
 
 ---
 
+## Application Link :- 
+
+"https://fund-guardian-ai.lovable.app"
+
+---
+
 ## Author
 
 Developed as a machine learning and data science portfolio project to demonstrate skills in data preprocessing, predictive modeling, and web application integration.
